@@ -20,7 +20,7 @@ git clone git@github.com:edurodrigues0/crud-in-memory-golang.git
 ```
 
 5. **Acesse a aplicação:**
-O backend estará rodando na porta 8080 usando o comando ``go run main.go``. Você pode acessar a API através de http://localhost:8080.
+O backend estará rodando na porta 8080 usando o comando ``go run ./cmd/api/main.go``. Você pode acessar a API através de http://localhost:8080.
 
 ## Endpoints da API
 

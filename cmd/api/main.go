@@ -1,7 +1,7 @@
 package main
 
 import (
-	"crud-in-memory-golang/api"
+	"crud-in-memory-golang/internal/api"
 	"crud-in-memory-golang/models"
 	"log/slog"
 	"net/http"
